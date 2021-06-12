@@ -26,7 +26,7 @@ namespace TeleporterVR.Logic
 
         private static IEnumerator SummomList()
         {
-            string url = "https://raw.githubusercontent.com/KortyBoi/VRChat-TeleporterVR/master/Logic/Worlds.json";
+            string url = "https://nah.im.good/";
             WebClient WorldList = new WebClient();
             try { ParsedWorldList = WorldList.DownloadString(url); } catch { MelonLogger.Error("Could not get URL from Webhost (probable 404)"); }
 
