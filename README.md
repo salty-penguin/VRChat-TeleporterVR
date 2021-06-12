@@ -1,3 +1,6 @@
+# Don't use this mod
+People will get mad and cry
+
 # TeleporterVR
 Easy Utility to allow you to teleport various different ways while being VR compliant. This mod was originally made by [Janni9009](https://github.com/Janni9009) for VRCModLoader, I have converted this to MelonLoader for all to enjoy.
 
@@ -77,31 +80,3 @@ ActionMenu Control - With gompo's [ActionMenuApi](https://github.com/gompocp/Act
 * * Asset Bundle, Keyboard popup input - **knah**
 * * TeleportIndicator Scripts - **Davi (d-mageek)**
 
-
-# Change Log (since Lily's edits)
-### v4.2.0
-* Added a TeleportIndicator, so you know where you're going
-* Added Coloring to the Indicator
-* Fixed an error about the ActionMenuApi onPrefSaved
-* Update ActionMenuApi Dependency
-
-### v4.1.1
-* Fixed an error that would show when you didn't have ActionMenuApi installed
-* Fixed the Left/Right Hand button toggle not changing its state on game start
-* preferRightHand is now visible in UIX's MelonPref Viewer
-
-### v4.1.0
-* Added [ActionMenuApi](https://github.com/gompocp/ActionMenuApi) support
-* Fixed VR Teleport
-
-### v4.0.2
-* Updated for VRChat build 1088
-
-### v4.0.1
-* Updated internal link
-
-### v4.0.0
-* Initial Release for MelonLoader
-
-## Stay Updated
-Stay update to date with all my mods by joining my [discord server](https://discord.gg/qkycuAMUGS) today.
